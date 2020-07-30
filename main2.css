@@ -1,0 +1,61 @@
+html{background-color: black;}
+
+body{background-color: black !important;}
+
+h1{background-color: black;
+color: white;
+text-align: center;
+text-shadow: grey;
+font-size: 150px;
+font: fantasy;
+}
+
+h3{background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: grey;
+    font-size: 150px;
+    font: fantasy;}
+h4{background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: grey;
+    font-size: 150px;
+    font: fantasy;}
+
+
+.left {
+    float: left;
+    padding: 0 10px 0 0;
+padding: black;
+margin-bottom: 15px;
+}
+
+.right {
+        float: right;
+        padding: 0 10px 0 0;
+    }
+
+
+h2{background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: grey;
+    font-size: 150px;
+    font: fantasy;
+    }
+
+p{background-color: black;
+color:white;
+text-align: left;
+font-size: 25px;}
+
+ img{margin: 10px, 10px;
+    border-style: solid;
+    border-color: ivory;
+    padding:0%;
+    ;
+}
+
+footer{justify-content: flex-end;}
+
